@@ -1,3 +1,3 @@
-# cucuc
+# cu
 
 Learning GitHub, total noob
