@@ -2,4 +2,4 @@
 
 Learning GitHub, total noob
 
-![image](https://external-preview.redd.it/v3GQshEGnB3kAgbc91gjzN__FjjBFgy--AstJxQHX0o.gif?width=500&format=mp4&s=b38cbef7a002155ee2a23497cd975e6f62a5bc3a)
+![image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXdqN252aWZqMG5sdXluNjJndWFkbmpvaXh6M2swb2JiMjV5MjNwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4KkSbPnZ5Skec/giphy.webp)
