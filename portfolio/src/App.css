@@ -489,7 +489,7 @@
 }
 
 .project-card h2 {
-  min-height: 33px;
+  height: 66px;
   margin: 20px 0 0;
   color: #3f3a53;
   font-size: 22px;
