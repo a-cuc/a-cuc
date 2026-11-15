@@ -6,7 +6,7 @@ export function DataPage() {
     <DetailLayout title="Data">
       <div className="data-panel">
         <h1>Data</h1>
-        <p className="data-summary">Three projects in machine learning, analytics, and forecasting.</p>
+        <p className="data-summary">Having specialized in data science, I built projects that take raw data through cleaning and analysis to visualization and forecasting.</p>
         <div className="project-grid">
           {projects.map(([monogram, name, description, repositoryUrl]) => (
             <article className="project-card" key={name}>
