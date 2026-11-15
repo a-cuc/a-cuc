@@ -28,11 +28,11 @@ export function ExperiencePage({ type }) {
         <p className="gallery-label">{isSolar ? 'SOLAR INSTALLATION IN PRACTICE' : 'NETWORKING IN PRACTICE'}</p>
         <div className={`photo-grid ${isSolar ? 'solar-photos' : 'network-photos'}`}>
           <PhotoPlaceholder
-            src={isSolar ? '/images/solar-1.jpg' : '/images/network-2.jpg'}
+            src={`${import.meta.env.BASE_URL}${isSolar ? 'images/solar-1.jpg' : 'images/network-2.jpg'}`}
             label={isSolar ? 'Solar photo 01' : 'Portrait photo'}
           />
           <PhotoPlaceholder
-            src={isSolar ? '/images/solar-2.jpg' : '/images/network-1.png'}
+            src={`${import.meta.env.BASE_URL}${isSolar ? 'images/solar-2.jpg' : 'images/network-1.png'}`}
             label={isSolar ? 'Solar photo 02' : 'Landscape photo'}
             className={!isSolar ? 'certificate-photo' : ''}
           />
